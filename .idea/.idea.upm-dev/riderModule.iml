@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="RIDER_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$USER_HOME$/Desktop/EventBus" />
+    <content url="file://$MODULE_DIR$/../../../EventBus" />
+    <content url="file://$MODULE_DIR$/../../../SceneLoader" />
+    <content url="file://$MODULE_DIR$/../../../SceneReference" />
+    <content url="file://$MODULE_DIR$/../../../static-asset-loader" />
+    <content url="file://$MODULE_DIR$/../../../unity-now" />
+    <content url="file://$MODULE_DIR$/../.." />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

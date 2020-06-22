@@ -1,0 +1,15 @@
+[submodule "upm-dev/Packages/EventBus"]
+	path = upm-dev/Packages/EventBus
+	url = https://github.com/Futuclass/EventBus.git
+[submodule "upm-dev/Packages/unity-now"]
+	path = upm-dev/Packages/unity-now
+	url = https://github.com/skibitsky/unity-now.git
+[submodule "upm-dev/Packages/static-asset-loader"]
+	path = upm-dev/Packages/static-asset-loader
+	url = https://github.com/skibitsky/static-asset-loader.git
+[submodule "upm-dev/Packages/scene-reference"]
+	path = upm-dev/Packages/scene-reference
+	url = https://github.com/skibitsky/scene-reference.git
+[submodule "upm-dev/Packages/unity-rich-text"]
+	path = upm-dev/Packages/unity-rich-text
+	url = https://github.com/skibitsky/unity-rich-text.git

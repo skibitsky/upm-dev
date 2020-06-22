@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Packages/EventBus" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Packages/scene-reference" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Packages/static-asset-loader" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Packages/unity-now" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Packages/unity-rich-text" vcs="Git" />
+  </component>
+</project>
