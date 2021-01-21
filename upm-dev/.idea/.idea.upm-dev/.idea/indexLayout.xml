@@ -8,7 +8,9 @@
       <Path>Library/PackageCache/com.unity.ext.nunit@1.0.0</Path>
       <Path>Library/PackageCache/com.unity.ide.rider@1.1.4</Path>
       <Path>Library/PackageCache/com.unity.ide.vscode@1.1.4</Path>
+      <Path>Library/PackageCache/com.unity.ide.vscode@1.2.2</Path>
       <Path>Library/PackageCache/com.unity.test-framework@1.1.11</Path>
+      <Path>Library/PackageCache/com.unity.test-framework@1.1.18</Path>
       <Path>Library/PackageCache/com.unity.timeline@1.2.12</Path>
       <Path>Library/PackageCache/jillejr.newtonsoft.json-for-unity@12.0.101</Path>
       <Path>ProjectSettings</Path>

@@ -1,6 +1,6 @@
 [submodule "upm-dev/Packages/EventBus"]
 	path = upm-dev/Packages/EventBus
-	url = https://github.com/Futuclass/EventBus.git
+	url = git@github.com:Futuclass/EventBus.git
 [submodule "upm-dev/Packages/unity-now"]
 	path = upm-dev/Packages/unity-now
 	url = https://github.com/skibitsky/unity-now.git
