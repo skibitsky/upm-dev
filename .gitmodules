@@ -13,9 +13,6 @@
 [submodule "upm-dev/Packages/unity-rich-text"]
 	path = upm-dev/Packages/unity-rich-text
 	url = https://github.com/skibitsky/unity-rich-text.git
-[submodule "upm-dev/Packages/urx"]
-	path = upm-dev/Packages/urx
-	url = git@github.com:skibitsky/urx
 [submodule "upm-dev/Packages/asuka"]
 	path = upm-dev/Packages/asuka
 	url = git@github.com:skibitsky/asuka
