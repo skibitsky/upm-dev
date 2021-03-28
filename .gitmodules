@@ -16,3 +16,6 @@
 [submodule "upm-dev/Packages/asuka"]
 	path = upm-dev/Packages/asuka
 	url = git@github.com:skibitsky/asuka
+[submodule "upm-dev/Packages/string-formatter"]
+	path = upm-dev/Packages/string-formatter
+	url = git@github.com:skibitsky/string-formatter.git
